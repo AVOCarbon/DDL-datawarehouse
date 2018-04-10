@@ -33,7 +33,7 @@ INSERT INTO dw."SYS_Tables_ToLoad" VALUES
 INSERT INTO dw."SYS_Tables_ToLoad" VALUES
 ("Tianjin";"dw";"LO-D1_Receptions";"1900-01-01 00:00:00";"1900-01-01 00:00:00";"1900-01-01 00:00:00";"1900-01-01 00:00:00");
 INSERT INTO dw."SYS_Tables_ToLoad" VALUES
-("Kunshan";"dw";"LO-D1_Receptions";"1900-01-01 00:00:00";"1900-01-01 00:00:00";"1900-01-01 00:00:00";"1900-01-01 00:00:00");
+("Germany";"dw";"LO-D1_Receptions";"1900-01-01 00:00:00";"1900-01-01 00:00:00";"1900-01-01 00:00:00";"1900-01-01 00:00:00");
 INSERT INTO dw."SYS_Tables_ToLoad" VALUES
 ("India";"dw";"LO-D1_Receptions";"1900-01-01 00:00:00";"1900-01-01 00:00:00";"1900-01-01 00:00:00";"1900-01-01 00:00:00");
 INSERT INTO dw."SYS_Tables_ToLoad" VALUES
